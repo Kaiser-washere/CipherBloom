@@ -64,3 +64,4 @@ cipherbloom/
 
 <h2>⚡ License</h2>
 <p>Released under the MIT License. Free to use, modify, and share.</p>
+<h1>educational use only</h1>
