@@ -1,4 +1,4 @@
-<h1>CipherBloom - PurpleRose Decoder 🌹</h1>
+<h1>CipherBloom - PurpleRose Decoder </h1>
 
 <pre style="color:purple;">
 ⢀⣀⣤⣤⣤⣴⠶⠦⢤⣄⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -29,14 +29,14 @@
 <p>CipherBloom is a lightweight Python toolkit for decoding obfuscated data.  
 It supports <b>Base64</b>, <b>zlib</b>, and <b>gzip</b>, automatically detecting the format and saving the decoded output as text or binary.</p>
 
-<h2>✨ Features</h2>
+<h2>Features</h2>
 <p>
 - Automatic format detection (Base64, zlib, gzip)<br>
 - UTF‑8 text output when possible, binary fallback otherwise<br>
 - Colorized CLI interface with a custom PurpleRose banner
 </p>
 
-<h2>🚀 Quick Start</h2>
+<h2>Quick Start</h2>
 <p>
 <b>1.</b> Clone the repository:<br>
 <pre><code>git clone https://github.com/yourusername/cipherbloom.git
@@ -62,6 +62,6 @@ cipherbloom/
 └── README.md
 </pre>
 
-<h2>⚡ License</h2>
+<h2> License</h2>
 <p>Released under the MIT License. Free to use, modify, and share.</p>
 <h1>educational use only</h1>
